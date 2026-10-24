@@ -87,25 +87,28 @@ Python, PostgreSQL, SQL, and Power BI.
 
 [↗ View Repository](YOUR_REVENUE_PROJECT_URL)
 
-</td>
+
 <td width="50%" valign="top">
 
-### 🛒 Amazon Sales Analysis Dashboard
+### 🛡️ ChurnShield — Predictive Customer Retention Engine
 
-A dashboard project focused on exploring sales performance,
-business KPIs, and trends through data visualization.
+An end-to-end customer analytics and churn prediction platform that identifies at-risk customers and supports data-driven retention decisions.
 
 **Technology Stack**
 
-`Power BI` `Excel` `SQL` `DAX`
+`Python` `SQL` `PostgreSQL` `Scikit-learn` `Streamlit` `Docker`
 
 **Key Highlights**
-- Sales performance analysis
-- KPI visualization and reporting
-- Business trend exploration
-- Interactive dashboard design
+- Customer churn analysis and risk segmentation
+- Logistic Regression and Random Forest model evaluation
+- Stratified 5-fold cross-validation
+- Interactive customer risk analysis dashboard
+- Retention decision simulator for hypothetical revenue impact
 
-[↗ View Repository](YOUR_AMAZON_PROJECT_URL)
+[↗ View Repository](https://github.com/Vidhanshu17/churnshield-predictive-retention)
+
+</td>
+
 
 </td>
 </tr>
